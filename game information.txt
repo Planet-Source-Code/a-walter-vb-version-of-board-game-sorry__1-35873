@@ -1,0 +1,72 @@
+58, 57, 56, 55
+
+5, 1
+4, 2
+3, 3
+2, 4
+1, 5
+
+blue1 5, 6
+blue2 0, 1
+
+
+blue2 26, 27
+
+
+0, 56
+1, 57
+2, 58
+3, 59
+
+
+positioning below label6
+label2 for 7
+text1 for 7
+option1 for 10
+option2 for 10
+check1 for 11
+
+
+
+
+ElseIf card(nextcard - 1).card = 10 And gamepiece(ngamepiece).currentposition > 54 And gamepiece(ngamepiece).currentposition <> 59 Then
+newx = gamepiece(ngamepiece).boardposition - 1
+gamepiece(ngamepiece).boardposition = newx
+gamepiece(ngamepiece).status = "Out"
+
+
+board positions with
+12, 20
+
+board positions without
+12, 17 (should be no matter what)
+
+for testings
+text2
+text3
+label3
+label8
+command3
+command4
+command5
+command6
+check4
+command8
+command1
+list2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
