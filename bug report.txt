@@ -1,0 +1,3 @@
+label problem:
+
+no warning when near safety
